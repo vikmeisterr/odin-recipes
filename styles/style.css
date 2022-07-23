@@ -9,7 +9,7 @@ h1{
 }
 img{
     height: auto; 
-    width: 1200px; 
+    width: 1000px; 
 }
 .imgPos{
     text-align: center;
@@ -31,5 +31,61 @@ a{
 }
 #backtotop{
     color: black;
-    background-color:antiquewhite;
+    background-color:rgb(91, 90, 88);
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+}
+.imgsize{
+    height: auto; 
+    width: 800px; 
+}
+h3{
+    text-align: center;
+    color:antiquewhite;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ordered{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.orderedsarma{
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.sort{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(160, 157, 155, 0.5);
+    font-size: 20px;
+}
+
+.basiclist{
+    text-align: center;
+    color: rgba(160, 157, 155, 0.5);
+    font-size: 20px;
+}
+span{
+    padding-left: 75px;
+}
+.header{
+    display: block;
+    margin-left: 30.5%;
+    margin-right: 30.5%;
+}
+.styleheader{
+    display: block;
+    background-color: black;
+}
+.astyle{
+    color:antiquewhite;
+    font-weight:500;
 }
